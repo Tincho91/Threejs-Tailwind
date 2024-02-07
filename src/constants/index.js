@@ -47,11 +47,11 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "React Developer",
     icon: mobile,
   },
   {
-    title: "Backend Developer On The Making",
+    title: "Backend Developer",
     icon: backend,
   },
   {
@@ -140,14 +140,14 @@ const experiences = [
       "-Web Development",
       "-JavaScript",
       "-ReactJS",
-      "-BackEnd with Node, Express and MongoDB (in progress)",
+      "-BackEnd with Node, Express and MongoDB",
     ],
   },
   {
     type: "Work",
     title: "Freelance Front-End Web Developer",
     company_name: "MODO - Comunicación, Mar del Plata",
-    date: "Feb 2023 - Present",
+    date: "Feb 2023 - Feb 2024",
     icon: modoComunicacionLogo,
     iconBg: "#383E56",
     points: [
@@ -160,7 +160,7 @@ const experiences = [
     type: "Work",
     title: "Freelance Front-End Web Developer",
     company_name: "Masrow Estudio, Mar del Plata",
-    date: "Apr 2023 - Jun 2023",
+    date: "Apr 2023 - Present",
     icon: masrowStudioLogo,
     iconBg: "#E6DEDD",
     points: [
